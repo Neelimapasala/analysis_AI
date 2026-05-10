@@ -9,9 +9,6 @@
 
 Nebula AI is an end-to-end automated data analysis system that eliminates the need for manual data science expertise. Upload any CSV dataset and get instant insights, visualizations, ML predictions, and NLP analysis - all in one beautiful interface.
 
-## 📊 Live Demo
-[Coming Soon] - Deploy on GitHub Pages or Vercel
-
 ## ✨ Key Features
 
 ### 📈 Automated Data Processing
